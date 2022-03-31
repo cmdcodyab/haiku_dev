@@ -232,7 +232,6 @@ stack-data
 statsmodels 
 sympy 
 tables 
-TBB==0.2
 tblib 
 terminado 
 testpath 
