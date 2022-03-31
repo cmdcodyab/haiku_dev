@@ -114,7 +114,6 @@ keyring
 kiwisolver 
 lazy-object-proxy 
 libarchive-c 
-llvmlite==0.37.0
 locket 
 lxml 
 MarkupSafe 
