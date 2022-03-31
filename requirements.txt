@@ -206,10 +206,6 @@ reportlab==3.5.67
 requests 
 rope 
 Rtree 
-ruamel-yaml-conda 
-scikit-image==0.18.3
-scikit-learn 
-scikit-learn-intelex==2021.20220215.132722
 scipy 
 seaborn 
 Send2Trash 
