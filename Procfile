@@ -1,1 +1,1 @@
-web: gunicorn falskblog:wsgi
+web: gunicorn haiku_blog:wsgi
