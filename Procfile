@@ -1,1 +1,1 @@
-web: gunicorn haiku_blog.wsgi
+web: gunicorn flaskblog.wsgi
